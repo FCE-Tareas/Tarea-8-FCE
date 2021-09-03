@@ -266,6 +266,163 @@ t = 1200 us
 
 i = -22mA
 
+35. Escriba las ecuaciones para las formas de onda de la figura 15-82. Exprese la fase del ángulo en grados.
+
+![image](https://user-images.githubusercontent.com/84390820/131960672-820fb1bf-cfb8-4020-ad73-63fcb72509c7.png)
+
+a)
+
+w = 1000 rad/s
+
+Im = 5 mA 
+    
+θ = π/5 rad
+    
+θ = 36º
+    
+i = Im sen( wt + θ )
+    
+i = 5 sen (1000t + 36º) mA 
+
+b)
+
+T = 50 ms
+
+w = 2π / T = 2π / 50 ms =  40 π rad/s 
+
+Im = 10 A 
+
+θ = 180º - 60º = 120º 
+
+i = Im sen( wt + θ )
+
+i = 10 sen(40πt + 120º) 
+
+c)	
+
+f = 900 Hz 
+
+w = 2πf = 2π(900 Hz) = 1800 π rad/s 
+
+Vm = 40 V 
+
+θ = π/4 rad/s
+
+Θ = 45º
+
+v = Vm sen (wt - θ)
+
+v = 40 sen ( 1800πt – 45º)
+
+37. Dada v = 5 sen(wt + 45º). Si w = 20π rad/s, ¿qué valor tiene v cuando t = 20, 75 y 90 ms?
+
+v = 5 sen(wt + 45º) 
+
+w = 20π rad/s 
+
+v = 5 sen( 20πt + 45 )
+
+en t = 20 ms =>  v = 4.46 V
+
+en t = 75 ms =>  v = -3.54 V
+
+en t = 90 ms =>  v = 0.782 V
+
+39. Determine la ecuación para la forma de onda que se muestra en la figura 15-84.
+
+![image](https://user-images.githubusercontent.com/84390820/131961892-36475c13-3926-4747-95aa-392d20cd9e5c.png)
+
+T = 1800 μs 
+
+w = 2π/T = 2π/1800μs = 3491 rad/s
+
+v = Vm sen (wt + θ) = 100sen(3491t + 36º) V
+
+41. Dada v = 30 sen(wt - 45º) donde w = 40π rad/s. Dibuje la forma de onda. ¿En qué momento v llega a 0 V? ¿En qué momento alcanza 23 V y -23 V?
+
+v = 30 sen(wt - 45) 
+
+v = 30 sen(40πt - 45)
+
+v = -21.213 V 
+
+t = 6.25 ms 
+
+cuando v = +23 V el tiempo t = 13.2 ms 
+
+cuando v = -23 V el tiempo t = 38.2 ms 
+
+43. Con la ayuda de fasores, dibuje las formas de onda para cada uno de los siguientes pares y determine la diferencia de fase y qué forma de onda está adelantada.
+
+a. v = 100 sen wt                                     c. i1 = 40 sen(qt + 30)
+
+i = 80 sen(wt + 20)                                   i2 = 50 sen(qt - 20)
+
+b. v1 = 200 sen(wt - 30)                              d. v = 100 sen(wt + 140)
+
+v2 = 150 sen(wt - 30)                                 i = 80 sen(qt - 160)
+
+![image](https://user-images.githubusercontent.com/84390820/131963608-6d82254b-e89a-4464-855a-cd3a84b52a94.png)
+
+De la figura anterior, la onda a menos forma de la onda B por 90
+
+La diferencia de fase y que forma de onda esta adelantada. 
+
+90 - (-60) = 150 º
+
+47. ¿Cuál es el valor promedio para cada uno de los siguientes casos para un número entero de ciclos?
+
+a. i = 5 sen wt                           c. v = 400 sen(wt + 30)
+
+b. i = 40 cos wt                          d. v = 20 cos 2wt
+
+a) i = 5 sen wt 
+
+El valor medio de la forma de onda sinusoidal durante un ciclo es cero. Por lo tanto el valor promedio es cero.
+
+b) i = 40 cos wt 
+
+El valor medio de la forma de onda sinusoidal durante un ciclo es cero. Por lo tanto el valor promedio es cero.
+
+c) v = 400 sen(wt + 30)
+
+El valor medio de la forma de onda sinusoidal durante un ciclo es cero. Por lo tanto el valor promedio es cero.
+
+d) v = 20 cos 2wt
+
+El valor medio de la forma de onda sinusoidal durante un ciclo es cero. Por lo tanto el valor promedio es cero.
+
+49. Calcule Iprom o Vprom para las formas de onda de la figura 15-88.
+
+Vpromedio = -5 V 
+
+I promedio = 1.364 A 
+
+51. Para el circuito de la figura 15-90, e = 25 sen qt V y un periodo de T = 120 ms.
+
+a. Dibuje el voltaje v(t) coloque en el eje una escala en milisegundos.
+
+b. Determine los voltajes pico y mínimo.
+
+c. Calcule v cuando t = 10, 20, 70 y 100 ms.
+
+d. Determine Vprom.
+
+![image](https://user-images.githubusercontent.com/84390820/131965346-9607ee73-72e9-41da-8afa-ce76b66b349a.png)
+
+Vp = 40 V
+
+Vmin = -10 V 
+
+T = 120 ms 
+
+t = 10 ms
+
+n t = 100 ms => Vprom = 15 V 
+
+
+
+
 
 
 EJERCICIOS CAPÍTULO XVI
