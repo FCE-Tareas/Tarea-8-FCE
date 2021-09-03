@@ -14,20 +14,38 @@ Específicos
 * Decribir las características de la corriente alterna, y su efecto sobre resistencias, condensadores y bobinas.
 * Calcular relaciones entre diferencias de potencial e intensidades de corriente en dipolos RLC en serie.
 
+2. MARCO TEÓRICO 
+
+CAPÍTULO XV
+
+
+
+
+CAPÍTULO XVI
+
+
+3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS 
+
+EJERCICIOS CAPÍTULO XV
 
 
 
 
 
+EJERCICIOS CAPÍTULO XVI
+
+
+
+4. VIDEO 
 
 
 
 
+5. CONCLUSIONES
 
 
 
-
-
+6. BIBLIOGRAFÍA
 
 
 
