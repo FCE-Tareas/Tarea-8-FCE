@@ -22,6 +22,12 @@ CAPÍTULO XV
 
 CAPÍTULO XVI
 
+![87faa1b0c99044569debd9e430f5dd6e-0001](https://user-images.githubusercontent.com/84390686/131968673-6d5cd340-65a7-4084-8901-9c57abb3f99f.jpg)
+
+![6f4d843baae74e38a0892504432cc5b4-0001](https://user-images.githubusercontent.com/84390686/131968789-de3bd960-f963-4db3-8f8f-d80c31cea589.jpg)
+
+![40988f59263b4a5c99eec699b2221f5f-0001](https://user-images.githubusercontent.com/84390686/131968866-5fd4ac33-8bb6-4c80-a03e-08106e4a8835.jpg)
+
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS 
 
 EJERCICIOS CAPÍTULO XV
@@ -426,6 +432,183 @@ n t = 100 ms => Vprom = 15 V
 
 
 EJERCICIOS CAPÍTULO XVI
+
+
+21. Para la figura 16-53, Vm =10 V e Im =5A. Para cada expresión, determine la cantidad solicitada.
+
+![image](https://user-images.githubusercontent.com/84390686/131969120-efcf3d01-c62c-4db9-9b47-aac0d7f92494.png)
+
+a.
+
+vL= 10 sen(wt+60º)V
+
+XL=Vm/Im
+
+= 10/5 = 2
+
+IL= 5sent(wt+60º)
+
+b.
+
+VL= 10 sen(wt-15º)
+
+IL=Imsen(wt+0)
+
+IL=5sen(wt-15º)
+
+c.
+
+IL=5sen(wt+60º)A
+
+VL=Vmsen(wt+0)
+
+Vm=10
+
+VL=10 sent(wt-60º)
+
+23. Para la figura 16-53, e =100 sen(wt) y L _ 0.5 H. Determine iL a...
+ 
+ ![image](https://user-images.githubusercontent.com/84390686/131969249-1313ad28-b58b-4874-833b-05c6558614d7.png)
+
+a. 
+
+60 Hz
+
+iL=Imsen(wt)
+
+XL=w
+
+L=2πf
+
+L=2π (60)(0.5)
+
+=188.5
+
+Vm=100
+
+Im=Vm/XL
+
+Im=100/188.5
+
+Im=0.53A
+
+iL=0.531sent(377t-90º)
+
+b.
+
+1000 Hz
+
+iL= Imsen(wt)
+
+XL=w
+
+L=2πf
+
+L=2π (1000)(0.5)=3141.6
+
+Vm=100
+
+Im=Vm/XL=100/3141.6=0.031A
+
+iL=31.8sen(6283t-90º)mA
+
+25. Para la figura 16-53, si
+ 
+ ![image](https://user-images.githubusercontent.com/84390686/131969297-f29264d8-edee-4009-a40a-61f778200d18.png)
+
+a. vL =40 sen (wt + 30º) V, iL = 364 sen (wt – 60º) mA y L =  2 mH, ¿Cuál es el valor de f?
+
+Vm = wLIm
+
+40 = w(2)(364)
+
+W = 0.05494
+
+W = 2πf
+
+0.05494 = 2πf
+
+f = 8.74kHz
+
+29. Para la figura 16-54, C _ 50 _F.
+
+![image](https://user-images.githubusercontent.com/84390686/131969390-b502e381-2c53-4c6e-aec0-d267d5c449f2.png)
+
+a. vC = 100 sen(377t) V, ¿cuanto vale iC?
+
+w = 377
+
+xc = 1/wc
+
+xc = 1/(377)(0.00005)
+
+xc = 53.05ohm
+
+Im = Vm/xc
+
+Im = 100v/53.05ohm
+
+Im = 1.88A
+
+Ic = 1.88sen(377t+90º)A
+
+31) Determine la impedancia de cada elemento de circuito de la figura 16-55.
+ 
+ ![image](https://user-images.githubusercontent.com/84390686/131969440-24e04f2c-bd50-4032-b8cc-cba614d7d224.png)
+
+a.
+
+Zr=R=48ohm
+
+b.
+
+W = 2πf
+
+w = 2π (60)=120π
+
+Zl = jwl
+
+Zl = j(120π)(0.1)
+
+Zl = j37.69 ohm
+
+33. Si la corriente a traves de cada elemento de circuito de la figura 16-56 es 0.5 ∠0º:
+
+a. Determine cada voltaje en forma fasorial.
+
+b. Exprese cada voltaje en forma del dominio del tiempo.
+ 
+![image](https://user-images.githubusercontent.com/84390686/131969550-349e9766-f106-447d-8809-c026d02e5f6d.png)
+
+a.
+
+Ir = vr/r
+
+0.5 = vr/50
+
+Vr = 250ºv
+
+vr = 25\sqrt2sen(wt)v
+
+b.
+
+iL = vL/r
+
+0.5=vL/25
+
+vL=12.590ºv
+
+vL=12.5\sqrt2sen(wt+90º)v
+
+c.
+
+iC=vC/r
+
+0.5=vC/10
+
+vC=5-90ºv
+
+vC=5\sqrt2sen(wt-90º)v
 
 
 
