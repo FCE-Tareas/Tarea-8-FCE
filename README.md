@@ -20,6 +20,12 @@ CAPÍTULO XV
 
 ![image](https://user-images.githubusercontent.com/85137398/131955617-5aa1d2fa-4fce-482c-8c85-fad2fb736011.png)
 
+CAPÍTULO XVI
+
+3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS 
+
+EJERCICIOS CAPÍTULO XV
+
 1.	¿A que se refiere “voltaje de ca” y “corriente de ca”?
 
 Un tipo de voltaje es "CA", que significa "corriente alterna". El voltaje de CA viaja en un patrón que alterna entre valores positivos y negativos.
@@ -259,18 +265,6 @@ i = -11.4 mA
 t = 1200 us
 
 i = -22mA
-
-
-CAPÍTULO XVI
-
-
-3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS 
-
-EJERCICIOS CAPÍTULO XV
-
-
-
-
 
 
 
