@@ -611,21 +611,19 @@ vC=5-90ºv
 vC=5\sqrt2sen(wt-90º)v
 
 
-
 4. VIDEO 
 
-
-
+https://youtu.be/QRI7MHDTcBQ
 
 5. CONCLUSIONES
 
-- Las maginitudes de los voltajes resultantes seran proporcionales a la tasa en donde se cortan las lineas de flujos y es ahi donde dependera de la direccion que se mueven los electrones en las bobinas.
+* Los valores tanto en voltajes como intensidades RMS se expresan de esta forma debido a que tienen una fuente alterna, el valor RMS es el valor del voltaje o corriente en C.A. que produce el mismo efecto de disipación de calor que su equivalente de voltaje o corriente directa, este valor se puede transformar a voltajes pico, pico pico y promedio, lo cual viene determinado por fórmulas.
 
-
+* Las maginitudes de los voltajes resultantes seran proporcionales a la tasa en donde se cortan las lineas de flujos y es ahi donde dependera de la direccion que se mueven los electrones en las bobinas.
 
 6. BIBLIOGRAFÍA
 
-
+Robbins, A., & Miller, W. C. (2008). Análisis de circuitos: teoría y práctica. Cengage Learning Editores.
 
 
 
